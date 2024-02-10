@@ -6,17 +6,11 @@ https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png" group-title="Tamil International;Comedy",IBC Pagadi
 https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,GTA TV HD(INTL)
-http://142.44.213.115:8888//gta_tamil/index.m3u8
+#EXTINF:0,IBC BAKTHI
+https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TamilVisionTV.ca" tvg-country="CA;IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV (1080p)
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EETTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Entertainment",EET TV (1080p) [Not 24/7]
-https://live.streamjo.com/eetlive/eettv.m3u8
-
-#EXTINF:0,IBC BAKTHI
-https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v3a1/mono.m3u8
 
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="", THAAI TV
 https://cdn.anystream.uk:8082/thaitv/thailive/playlist.m3u8
@@ -48,6 +42,12 @@ https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="3TamilTV.au" tvg-logo="https://i.imgur.com/R43HJBp.png" group-title="Entertainment",3 Tamil TV (720p) [Not 24/7]
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
+#EXTINF:0,GTA TV HD(INTL)
+http://142.44.213.115:8888//gta_tamil/index.m3u8
+
+#EXTINF:-1 tvg-id="EETTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Entertainment",EET TV (1080p) [Not 24/7]
+https://live.streamjo.com/eetlive/eettv.m3u8
+
 #EXTINF:-1 tvg-id="7SMusic.in" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Music",7S Music (576p) [Not 24/7]
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 
@@ -65,15 +65,6 @@ https://ythls.armelin.one/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
 
 #EXTINF:-1 tvg-id="JothiTV.in" tvg-logo="https://i.imgur.com/FyESV9X.png" group-title="Undefined",Jothi TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCmgKVM_O9tLA1w4rFVaGyig.m3u8
-
-#EXTINF:-1 tvg-id="MKSix.in" tvg-logo="https://i.imgur.com/wZjEssv.png" group-title="Undefined",MK Six (576p) [Not 24/7]
-http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-
-#EXTINF:-1 tvg-id="MKTunes.in" tvg-logo="https://i.imgur.com/6SUnfuM.png" group-title="Undefined",MK Tunes (576p) [Not 24/7]
-http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-
-#EXTINF:-1 tvg-id="MKTV.in" tvg-logo="https://i.imgur.com/RyYmyWy.png" group-title="Entertainment",MK TV (576p) [Not 24/7]
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 
 #EXTINF:-1 tvg-id="MarutamTV.in" tvg-logo="https://i.imgur.com/cFNw4Af.png" group-title="Entertainment",MNTV (1080p)
 https://mntv.livebox.co.in/mntvhls/live.m3u8
@@ -128,3 +119,12 @@ https://ythls.armelin.one/channel/UC-JFyL0zDFOsPMpuWu39rPA.m3u8
 
 #EXTINF:-1 tvg-id="VaanavilTV.in" tvg-logo="https://i.imgur.com/etr1k08.png" group-title="Music",Vaanavil TV (720p)
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MKSix.in" tvg-logo="https://i.imgur.com/wZjEssv.png" group-title="Undefined",MK Six (576p) [Not 24/7]
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+
+#EXTINF:-1 tvg-id="MKTunes.in" tvg-logo="https://i.imgur.com/6SUnfuM.png" group-title="Undefined",MK Tunes (576p) [Not 24/7]
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+
+#EXTINF:-1 tvg-id="MKTV.in" tvg-logo="https://i.imgur.com/RyYmyWy.png" group-title="Entertainment",MK TV (576p) [Not 24/7]
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
