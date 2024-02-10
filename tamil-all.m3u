@@ -7,7 +7,7 @@ https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
 https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,GTA TV HD(INTL)
-#http://142.44.213.115:8888//gta_tamil/index.m3u8
+http://142.44.213.115:8888//gta_tamil/index.m3u8
 
 #EXTINF:-1 tvg-id="TamilVisionTV.ca" tvg-country="CA;IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV (1080p)
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
