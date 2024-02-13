@@ -24,6 +24,9 @@ https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:0, group-title="Tamil;Local" tvg-logo="http://www.erodesrikrishnatv.com/images/logo.png",SRI KRISHNA TV
 #http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VaanavilTV.in" tvg-logo="https://i.imgur.com/etr1k08.png" group-title="Music",Vaanavil TV (720p)
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUS TAMIL
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 
@@ -46,13 +49,13 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 http://142.44.213.115:8888//gta_tamil/index.m3u8
 
 #EXTINF:-1 tvg-id="EETTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Entertainment",EET TV (1080p) [Not 24/7]
-https://live.streamjo.com/eetlive/eettv.m3u8
+#https://live.streamjo.com/eetlive/eettv.m3u8
 
 #EXTINF:-1 tvg-id="7SMusic.in" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Music",7S Music (576p) [Not 24/7]
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 
 #EXTINF:-1 tvg-id="EETTV.in" tvg-logo="https://i.imgur.com/rMldFW8.png" group-title="Entertainment",EET TV (1080p) [Not 24/7]
-https://live.streamjo.com/eetlive/eettv.m3u8
+#https://live.streamjo.com/eetlive/eettv.m3u8
 
 #EXTINF:-1 tvg-id="ImayamTV.in" tvg-logo="https://i.imgur.com/jHv7t9t.png" group-title="Entertainment",Imayam (720p)
 https://server1.thewebworld.in:3114/live/iniyantvlive.m3u8
@@ -94,10 +97,10 @@ http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 https://ythls.armelin.one/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
 
 #EXTINF:-1 tvg-id="SanaPlus.in" tvg-logo="https://i.imgur.com/N6tKUZv.png" group-title="Music",Sana Plus (720p) [Not 24/7]
-http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
+#http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SanaTV.in" tvg-logo="https://i.imgur.com/CR7DGBv.png" group-title="Entertainment",Sana TV (576p) [Not 24/7]
-http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SathiyamTV.in" tvg-logo="https://i.imgur.com/x7S8c0s.png" group-title="News",Sathiyam TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC2ziCMHFPWkFHjocUMXT__Q.m3u8
@@ -117,14 +120,11 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:-1 tvg-id="ThanthiTV.in" tvg-logo="https://i.imgur.com/200ROjU.png" group-title="News",Thanthi TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC-JFyL0zDFOsPMpuWu39rPA.m3u8
 
-#EXTINF:-1 tvg-id="VaanavilTV.in" tvg-logo="https://i.imgur.com/etr1k08.png" group-title="Music",Vaanavil TV (720p)
-https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MKSix.in" tvg-logo="https://i.imgur.com/wZjEssv.png" group-title="Undefined",MK Six (576p) [Not 24/7]
-http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 
 #EXTINF:-1 tvg-id="MKTunes.in" tvg-logo="https://i.imgur.com/6SUnfuM.png" group-title="Undefined",MK Tunes (576p) [Not 24/7]
-http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 
 #EXTINF:-1 tvg-id="MKTV.in" tvg-logo="https://i.imgur.com/RyYmyWy.png" group-title="Entertainment",MK TV (576p) [Not 24/7]
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
