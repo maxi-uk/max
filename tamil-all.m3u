@@ -12,6 +12,9 @@ https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="TamilVisionTV.ca" tvg-country="CA;IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV (1080p)
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 
+#EXTINF:-1 tvg-id="EETTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Entertainment",EET TV (1080p) [Not 24/7]
+https://live.streamjo.com/eetlive/eettv.m3u8
+
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="", THAAI TV
 https://cdn.anystream.uk:8082/thaitv/thailive/playlist.m3u8
 
@@ -34,7 +37,7 @@ https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a0
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 #EXTINF:0,SURIAN MUSIC TV
-https://rumble-foxo.cdn.rumble.cloud/live/41ac4fe/slot-3/jks9-5t5g_1080p/chunklist.m3u8
+https://hugh.cdn.rumble.cloud/live/gke17oc4/slot-83/8w1n-ue05/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="MarutamMusic.in" tvg-logo="https://i.ibb.co/NynvtQm/1-210414213-U60-L.jpg" group-title="Music",MNTV Music (1080p)
 https://mntv.livebox.co.in/musichls/live.m3u8
