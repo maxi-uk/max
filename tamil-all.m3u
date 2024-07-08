@@ -4,7 +4,7 @@
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png" group-title="Tamil International;Comedy",IBC Pagadi
-https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
+#https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,IBC BAKTHI
 https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v3a1/mono.m3u8
