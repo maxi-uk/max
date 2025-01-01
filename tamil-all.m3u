@@ -18,6 +18,9 @@ https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://thaaitv.com/wp-content/uploads/2024/10/THAAITV-LOGOO.png", THAAI TV
 https://cdn.anystream.uk:8082/thaitv/thailive/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ImaiTV.lk" tvg-logo="https://i.imgur.com/9tODclu.png" group-title="Culture",Imai TV (720p)
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/imaitv/chunks.m3u8
+
 #EXTINF:0,VASANTHAM TV
 https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_2cdb4ef03c1311efadcf7986aa245789/tracks-v1a1/rewind-3600.m3u8
 
@@ -120,20 +123,11 @@ http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1 tvg-id="MKTV.in" tvg-logo="https://i.imgur.com/RyYmyWy.png" group-title="Entertainment",MK TV (576p) [Not 24/7]
 #http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 
-#EXTINF:-1 tvg-id="ImaiTV.lk" tvg-logo="https://i.imgur.com/9tODclu.png" group-title="Culture",Imai TV (720p)
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/imaitv/chunks.m3u8
-
 #EXTINF:-1 tvg-id="MonaraTV.lk" tvg-logo="https://i.imgur.com/EB99mzR.png" group-title="Entertainment",Monara TV (720p) [Not 24/7]
 https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NethraTV.lk" tvg-logo="https://i.imgur.com/vSrIN1U.jpg" group-title="General",Nethra TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UC6b6XrsNOxQiS-FdfE8-Avw.m3u8
+#https://ythls.armelin.one/channel/UC6b6XrsNOxQiS-FdfE8-Avw.m3u8
 
 #EXTINF:-1 tvg-id="ThanthiOne.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAaQKdmdiu7iORzWeeIaeMTSFVXazVHFXMAp2RoevnRYJsy4O8_cGmQl6wHcUTFu1P7MA&usqp=CAU" group-title="Entertainment",Thanthi One (1080p)
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
-
-#EXTINF:-1 tvg-id="DDPodhigai.in" tvg-logo="https://i.imgur.com/vbjkE84.png" group-title="General",DD Podhigai (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UC5-_zkjKabYd7tsLucKsriw.m3u8
-
-#EXTINF:-1 tvg-id="DDPuducherry.in" tvg-logo="https://i.imgur.com/bulvdUN.png" group-title="Documentary",DD Puducherry (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UC01EXbytWkjUdgwA5xXQZiw.m3u8
