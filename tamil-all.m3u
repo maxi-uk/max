@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-tamil-black.png" group-title="Tamil International;Entertainment",IBC TAMIL
+#EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/bravo/tv/img/logo.png" group-title="Tamil International;Entertainment",IBC TAMIL
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png" group-title="Tamil International;Comedy",IBC Pagadi
@@ -21,7 +21,7 @@ https://cdn.anystream.uk:8082/thaitv/thailive/playlist.m3u8
 #EXTINF:-1 tvg-id="ImaiTV.lk" tvg-logo="https://i.imgur.com/9tODclu.png" group-title="Culture",Imai TV (720p)
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/imaitv/chunks.m3u8
 
-#EXTINF:0,VASANTHAM TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/Vasanthamtv_channel.jpg",VASANTHAM TV
 https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_2cdb4ef03c1311efadcf7986aa245789/tracks-v1a1/rewind-3600.m3u8
 
 #EXTINF:-1 tvg-logo="https://athavantv.com/wp-content/uploads/2019/06/athavantv1.png" group-title="Tamil International;Entertainment",ATHAVAN TV
