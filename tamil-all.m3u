@@ -75,3 +75,12 @@ https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835
 #EXTINF:-1 tvg-id="EETTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://makkal.tv/wp-content/uploads/2024/06/logo.png" group-title="Entertainment",MAKKAL TV (1080p) [Not 24/7]
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 
+#EXTINF:-1 tvg-id="swarnavahini.lk" tvg-logo="https://www.swarnavahini.lk/assets/front/img/logo.png" group-title="Entertainment",SWARNAVAHINI TV (720p)
+https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://primeasiatv.com/wp-content/themes/prime-asia/images/logo.svg" group-title="Entertainment",PRIME ASIA TV
+http://primeasia.mine.nu/Prime_Asia_US/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u
+
