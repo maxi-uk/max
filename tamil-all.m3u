@@ -18,6 +18,9 @@ https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://thaaitv.com/wp-content/uploads/2024/10/THAAITV-LOGOO.png", THAAI TV
 https://cdn.anystream.uk:8082/thaitv/thailive/playlist.m3u8
 
+#EXTINF:-1 tvg-id="eyetamil.tv" tvg-logo="https://eyetamil.tv/wp-content/uploads/2022/09/Eye-Tamil-TV.svg" group-title="Entertainment",EYE TAMIL TV
+https://live.eyetamil.tv/tv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ImaiTV.lk" tvg-logo="https://i.imgur.com/9tODclu.png" group-title="Culture",Imai TV (720p)
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/imaitv/chunks.m3u8
 
@@ -40,7 +43,7 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUS TAMIL
-https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+#https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Music",SURIAN MUSIC TV
 https://helga.iptv2022.com/SOORIYAN_TV/tracks-v1a1/mono.m3u8
@@ -75,12 +78,14 @@ https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835
 #EXTINF:-1 tvg-id="EETTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://makkal.tv/wp-content/uploads/2024/06/logo.png" group-title="Entertainment",MAKKAL TV (1080p) [Not 24/7]
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 
+#EXTINF:-1 tvg-id="itn.lk" tvg-logo="https://itn.lk/wp-content/uploads/2022/03/ITN-Logo.svg" group-title="Entertainment",ITN LANKA
+https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_aabd3d003af211efadcf7986aa245789/tracks-v1a1/rewind-3600.m3u8
+
 #EXTINF:-1 tvg-id="swarnavahini.lk" tvg-logo="https://www.swarnavahini.lk/assets/front/img/logo.png" group-title="Entertainment",SWARNAVAHINI TV (720p)
 https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6.sdp/chunks.m3u8
 
+#EXTINF:-1 tvg-id="dheeran.tv" tvg-logo="https://dheeran.tv/img/1.png" group-title="Entertainment",DHEERAN TV 
+https://live.we2live.in/dheerantv/dheerantv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://primeasiatv.com/wp-content/themes/prime-asia/images/logo.svg" group-title="Entertainment",PRIME ASIA TV
 http://primeasia.mine.nu/Prime_Asia_US/tracks-v1a1/mono.m3u8
-
-#EXTINF:0,MUTV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u
-
