@@ -66,7 +66,7 @@ https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6
 #EXTINF:-1 tvg-id="hirutv.lk" tvg-logo="https://www.hirutv.lk/assets/images/logo.png" group-title="Entertainment",HIRU TV 
 https://tv.hiruhost.com:1936/8012/8012/chunklist_w1099736399.m3u8
 
-#EXTINF:0, ATHAVAN RADIO
+#EXTINF:0 tvg-logo="https://cdn.hostweb.uk/wp-content/uploads/2022/09/ATHAVAN-RADIO-LOGO-S.png" tag : radio="true",ATHAVAN RADIO
 http://s1.voscast.com:9038/mountpoint
 
 #EXTINF:-1 tvg-id="dheeran.tv" tvg-logo="https://dheeran.tv/img/1.png" group-title="Entertainment",DHEERAN TV 
