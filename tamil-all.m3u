@@ -15,6 +15,9 @@ https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://thaaitv.com/wp-content/uploads/2024/10/THAAITV-LOGOO.png", THAAI TV
 https://cdn.anystream.uk:8082/thaitv/thailive/playlist.m3u8
 
+#EXTINF:0 tvg-logo="http://ststamiltv.stsstudio.com/wp-content/uploads/2018/07/cropped-STS-logo-inda-2.png",STS TV GERMANY
+https://stream.vstartv.org:3031/stream/play.m3u8
+
 #EXTINF:-1 tvg-id="eyetamil.tv" tvg-logo="https://eyetamil.tv/wp-content/uploads/2022/09/Eye-Tamil-TV.svg" group-title="Entertainment",EYE TAMIL TV
 https://live.eyetamil.tv/tv/tracks-v1a1/mono.m3u8
 
@@ -63,8 +66,16 @@ https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6
 #EXTINF:-1 tvg-id="hirutv.lk" tvg-logo="https://www.hirutv.lk/assets/images/logo.png" group-title="Entertainment",HIRU TV 
 https://tv.hiruhost.com:1936/8012/8012/chunklist_w1099736399.m3u8
 
+#EXTINF:0, ATHAVAN RADIO
+http://s1.voscast.com:9038/mountpoint
+
 #EXTINF:-1 tvg-id="dheeran.tv" tvg-logo="https://dheeran.tv/img/1.png" group-title="Entertainment",DHEERAN TV 
 https://live.we2live.in/dheerantv/dheerantv/tracks-v1a1/mono.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://primeasiatv.com/wp-content/themes/prime-asia/images/logo.svg" group-title="Entertainment",PRIME ASIA TV
