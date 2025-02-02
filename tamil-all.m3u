@@ -9,6 +9,9 @@ https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://athavantv.com/wp-content/uploads/2019/06/athavantv1.png" group-title="Tamil International;Entertainment",ATHAVAN TV
 https://jr7yv2wqda4v-hls-live.5centscdn.com/athavan/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://ttn.tv/public/logo.png",TTN FRANCE
+https://5e5679f71b925.streamlock.net:442/live/ttntv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="EETTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Entertainment",EET TV (1080p) [Not 24/7]
 https://live.streamjo.com/eetlive/eettv.m3u8
 
