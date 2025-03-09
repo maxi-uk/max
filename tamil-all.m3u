@@ -22,7 +22,7 @@ https://cdn.anystream.uk:8082/thaitv/thailive/playlist.m3u8
 https://stream.vstartv.org:3031/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="eyetamil.tv" tvg-logo="https://eyetamil.tv/wp-content/uploads/2022/09/Eye-Tamil-TV.svg" group-title="Entertainment",EYE TAMIL TV CANADA
-https://live.eyetamil.tv/tv/tracks-v1a1/mono.m3u8
+#https://live.eyetamil.tv/tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ImaiTV.lk" tvg-logo="https://i.imgur.com/9tODclu.png" group-title="Culture",Imai TV JAFFNA
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/imaitv/chunks.m3u8
