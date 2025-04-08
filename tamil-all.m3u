@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/bravo/tv/img/logo.png" group-title="Tamil International;Entertainment",IBC TAMIL UK
-https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v3a1/mono.m3u8
+https://tv2.massstream.net/IBC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/bravo/ib/img/logo.png" group-title="Tamil International;Religious",IBC BHAKTHI
-https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v1a1/mono.m3u8
+https://tv2.massstream.net/IBC2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://athavantv.com/wp-content/uploads/2019/06/athavantv1.png" group-title="Tamil International;Entertainment",ATHAVAN TV UK
-https://jr7yv2wqda4v-hls-live.5centscdn.com/athavan/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+https://jr7yv2wqda4v-hls-live.5centscdn.com/athavan/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1797832312/ttn_400_400x400.png",TTN FRANCE
 https://5e5679f71b925.streamlock.net:442/live/ttntv/chunklist.m3u8
@@ -22,7 +22,7 @@ https://cdn.anystream.uk:8082/thaitv/thailive/playlist.m3u8
 https://stream.vstartv.org:3031/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="eyetamil.tv" tvg-logo="https://eyetamil.tv/wp-content/uploads/2022/09/Eye-Tamil-TV.svg" group-title="Entertainment",EYE TAMIL TV CANADA
-https://live.eyetamil.tv/tv/tracks-v1a1/mono.m3u8
+#https://live.eyetamil.tv/tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ImaiTV.lk" tvg-logo="https://i.imgur.com/9tODclu.png" group-title="Culture",Imai TV JAFFNA
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/imaitv/chunks.m3u8
@@ -40,7 +40,7 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 #https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Music",SOORIYAN TV CANADA
-http://208.79.153.150/giatv/giatv-Sooriyantv/Sooriyantv/chunks.m3u8
+http://198.144.149.206:8080/SOORIYAN/tracks-a1/index.fmp4.m3u8?token=GTR
 
 #EXTINF:-1 tvg-id="MarutamMusic.in" tvg-logo="https://mntv.in/style/images/logo-dark@2x.png" group-title="Music",MNTV MUSIC INDIA 
 https://mntv.livebox.co.in/musichls/live.m3u8
@@ -64,7 +64,7 @@ https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_aabd3d003af211efa
 https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="swarnavahini.lk" tvg-logo="https://www.swarnavahini.lk/assets/front/img/logo.png" group-title="Entertainment",SWARNAVAHINI TV SINHALA
-https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6.sdp/chunks.m3u8
+https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-id="hirutv.lk" tvg-logo="https://www.hirutv.lk/assets/images/logo.png" group-title="Entertainment",HIRU TV SINHALA
 https://tv.hiruhost.com:1936/8012/8012/chunklist_w1099736399.m3u8
@@ -95,9 +95,6 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports" group-title="",Ten Sports PK
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Bein Sports 2
-http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
@@ -136,9 +133,6 @@ https://stream.sainaertebat.com/hls2/persianas.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Football Live
 https://spstr.abntv.live/hls/psstream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Football",TYC Sports Play
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Football",Sport italia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 
@@ -154,23 +148,11 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/AccuWeather_2021.svg",ACCU WEATHER
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
-http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", Star sports 1 Tamil HD
+http://stream3.zecast.com:1935/star-live/sp20239/chunklist_w1096483107.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports" group-title="",Star Sports 2 HD.
-http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="Sports" group-title="",Star Sports 3
-http://103.122.74.6:8888/hls/STAR-SPORTS.3.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports" group-title="",Star Sports Select 1
-http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports" group-title="",Star Sports Select 2
-http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports" group-title="",Willow Cricket
-http://103.122.74.6:8888/hls/WILLOW.HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",Star Sports SL 1 HD 
+http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"group-title="English Movies" group-title="",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
