@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/bravo/tv/img/logo.png" group-title="Tamil International;Entertainment",IBC TAMIL UK
-https://tv2.massstream.net/IBC/tracks-v1a1/mono.m3u8
+https://ibc.massstream.net/IBC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/bravo/ib/img/logo.png" group-title="Tamil International;Religious",IBC BHAKTHI
-https://tv2.massstream.net/IBC2/tracks-v1a1/mono.m3u8
+https://ibc.massstream.net/IBC2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://athavantv.com/wp-content/uploads/2019/06/athavantv1.png" group-title="Tamil International;Entertainment",ATHAVAN TV UK
-https://jr7yv2wqda4v-hls-live.5centscdn.com/athavan/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#https://jr7yv2wqda4v-hls-live.5centscdn.com/athavan/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1797832312/ttn_400_400x400.png",TTN FRANCE
 https://5e5679f71b925.streamlock.net:442/live/ttntv/chunklist.m3u8
@@ -61,7 +61,7 @@ https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66
 https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_aabd3d003af211efadcf7986aa245789/tracks-v1a1/rewind-3600.ts.m3u8
 
 #EXTINF:-1 tvg-id="MonaraTV.lk" tvg-logo="https://i.imgur.com/EB99mzR.png" group-title="Entertainment",Monara TV SINHALA
-https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="swarnavahini.lk" tvg-logo="https://www.swarnavahini.lk/assets/front/img/logo.png" group-title="Entertainment",SWARNAVAHINI TV SINHALA
 https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/chunks.m3u8
