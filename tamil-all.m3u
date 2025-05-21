@@ -15,6 +15,12 @@ https://5e5679f71b925.streamlock.net:442/live/ttntv/chunklist.m3u8
 #EXTINF:-1 tvg-id="EETTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Entertainment",EET TV CANADA
 https://live.streamjo.com/eetlive/eettv.m3u8
 
+#EXTINF:-1 tvg-id="TamilVisionTV.ca" tvg-country="CA;IN" tvg-language="Tamil" tvg-logo="https://www.tamilvision.tv/image/logo.png" group-title="",Tamil Vision TV (1080p)
+https://live.cmr24.fm/TVI/HD/playlist.m3u8
+
+#EXTINF:1, tvg-logo="http://gtavideo.com/wp-content/uploads/2021/03/GTA-Tamil-Logo.png" group-title="Music" GTA TV HD(INTL)
+http://144.217.77.42:8888/gta_tamil/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://thaaitv.com/wp-content/uploads/2024/10/THAAITV-LOGOO.png", THAAI TV GERMANY
 https://cdn.anystream.uk:8082/thaitv/thailive/playlist.m3u8
 
@@ -40,7 +46,7 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 #https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Music",SOORIYAN TV CANADA
-http://198.144.149.206:8080/SOORIYAN/tracks-v1/index.fmp4.m3u8?token=GTR
+https://cdn.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/chunks.m3u8
 
 #EXTINF:-1 tvg-id="MarutamMusic.in" tvg-logo="https://mntv.in/style/images/logo-dark@2x.png" group-title="Music",MNTV MUSIC INDIA 
 https://mntv.livebox.co.in/musichls/live.m3u8
@@ -85,7 +91,7 @@ https://live.we2live.in/dheerantv/dheerantv/tracks-v1a1/mono.m3u8
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", T Sports HD 
-https://cdn.hoichoi24.com/LIVE/video.m3u8
+#https://cdn.hoichoi24.com/LIVE/video.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg ", A SPORTS HD  
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
@@ -103,13 +109,13 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",Star Sports SL 1 HD 
-http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
+#http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
-https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
+#https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg" group-title="Cricket 🏏",  Ten Sports HD  
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
@@ -153,20 +159,13 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playli
 #EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png" group-title="Tamil International;Comedy",IBC Pagadi
 #https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TamilVisionTV.ca" tvg-country="CA;IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV (1080p)
-#https://live.cmr24.fm/TVI/HD/chunks.m3u8?nimblesessionid=913901
 
 #EXTINF:0, group-title="Tamil;Local" tvg-logo="http://www.erodesrikrishnatv.com/images/logo.png",SRI KRISHNA TV
 #http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUS TAMIL
-#https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 
-#EXTINF:0,IBC ISAI
-#https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v3a1/mono.m3u8
-
-#EXTINF:0,GTA TV HD(INTL)
-#http://142.44.213.115:8888//gta_tamil/index.m3u8
 
 #EXTINF:-1 tvg-id="NethraTV.lk" tvg-logo="https://i.imgur.com/vSrIN1U.jpg" group-title="General",Nethra TV (1080p) [Not 24/7]
 #https://ythls.armelin.one/channel/UC6b6XrsNOxQiS-FdfE8-Avw.m3u8
@@ -182,5 +181,3 @@ http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
-#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="Sports",Abu Dhabi Sports 2 (1080p)
-https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
