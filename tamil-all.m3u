@@ -34,7 +34,7 @@ https://stream.vstartv.org:3031/stream/play.m3u8
 #https://ssh101stream.ssh101.com/akamaissh101/ssh101/imaitv/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/Vasanthamtv_channel.jpg",VASANTHAM TV LANKA
-https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_2cdb4ef03c1311efadcf7986aa245789/tracks-v1a1/rewind-3600.ts.m3u8
+#https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_2cdb4ef03c1311efadcf7986aa245789/tracks-v1a1/rewind-3600.ts.m3u8
 
 #EXTINF:-1 tvg-id="MarutamTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://mntv.in/style/images/logo-dark@2x.png" group-title="Entertainment",Marutam TV INDIA
 https://mntv.livebox.co.in/mntvhls/live.m3u8
@@ -64,7 +64,7 @@ https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-id="itn.lk" tvg-logo="https://i.imgur.com/NLu3guG.png" group-title="Entertainment",ITN LANKA SINHALA
-https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_aabd3d003af211efadcf7986aa245789/rewind-3600.m3u8
+#https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_aabd3d003af211efadcf7986aa245789/rewind-3600.m3u8
 
 #EXTINF:-1 tvg-id="MonaraTV.lk" tvg-logo="https://i.imgur.com/EB99mzR.png" group-title="Entertainment",Monara TV SINHALA
 #https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
@@ -180,4 +180,5 @@ http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+
 
