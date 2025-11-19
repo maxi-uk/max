@@ -34,7 +34,7 @@ https://ap02.iqplay.tv:8082/hls/thailive/1_2/index.m3u8?tkn=54775878
 #https://ssh101stream.ssh101.com/akamaissh101/ssh101/imaitv/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/Vasanthamtv_channel.jpg",VASANTHAM TV LANKA
-https://hls-abiri0ry-livepush.akamaized.net/live_cdn/nsiPyyYPqaaCfd/emECWxBE00V4ULId/tracks-v1a1/rewind-28800.m3u8
+#https://hls-abiri0ry-livepush.akamaized.net/live_cdn/nsiPyyYPqaaCfd/emECWxBE00V4ULId/tracks-v1a1/rewind-28800.m3u8
 
 #EXTINF:-1 tvg-id="MarutamTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://mntv.in/style/images/logo-dark@2x.png" group-title="Entertainment",Marutam TV INDIA
 https://mntv.livebox.co.in/mntvhls/live.m3u8
@@ -93,14 +93,11 @@ http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", T Sports HD 
 #https://cdn.hoichoi24.com/LIVE/video.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/Cpv8qzNj/ICC-Champions-Trophy-Logo.jpg ", A SPORTS HD  
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",Geo Super HD 🇵🇰 📺
+http://103.240.44.26/GEO-Super/tracks-v1/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports" group-title="",A Sports
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/GEO%20Super.png"group-title="Sports" group-title="",Geo Super
-http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ",T Sports HD 🇧🇩 📺
+http://stvlive.net:8080/tsports1/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",RTA Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
@@ -180,6 +177,7 @@ http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+
 
 
 
