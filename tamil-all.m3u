@@ -7,10 +7,10 @@ https://ibc.massstream.net/IBC/tracks-v1a1/mono.m3u8
 https://ibc.massstream.net/IBC2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://athavantv.com/wp-content/uploads/2019/06/athavantv1.png" group-title="Tamil International;Entertainment",ATHAVAN TV UK
-https://oj7lnxonyg82-hls-live.5centscdn.com/md5=BBzK9oc84srVYKxky_V_-Q&path=%2Fathavan%2F557a2fa47edc99a633852e9ec3acd716.sdp&expires=1763575640/athavan/557a2fa47edc99a633852e9ec3acd716.sdp/chunks.m3u8
+https://oj7lnxonyg82-hls-live.5centscdn.com/md5=064F8Z5TJqafXGqoaDkRqw&path=%2Fathavan%2F557a2fa47edc99a633852e9ec3acd716.sdp&expires=1765235697/athavan/557a2fa47edc99a633852e9ec3acd716.sdp/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1797832312/ttn_400_400x400.png",TTN FRANCE
-https://5e5679f71b925.streamlock.net:442/live/ttntv/chunklist.m3u8
+https://rtmp.ttn.tv:8443/app/ttn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EETTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Entertainment",EET TV CANADA
 https://live.streamjo.com/eetlive/eettv.m3u8
@@ -177,6 +177,7 @@ http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+
 
 
 
