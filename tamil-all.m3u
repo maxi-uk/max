@@ -10,7 +10,7 @@ https://ibc.massstream.net/IBC2/tracks-v1a1/mono.m3u8
 #https://oj7lnxonyg82-hls-live.5centscdn.com/md5=064F8Z5TJqafXGqoaDkRqw&path=%2Fathavan%2F557a2fa47edc99a633852e9ec3acd716.sdp&expires=1765235697/athavan/557a2fa47edc99a633852e9ec3acd716.sdp/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1797832312/ttn_400_400x400.png",TTN FRANCE
-https://rtmp.ttn.tv:8443/app/ttn/playlist.m3u8
+https://rtmp.ttn.tv/hls/app/ttn/index.m3u8
 
 #EXTINF:-1 tvg-id="EETTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Entertainment",EET TV CANADA
 https://live.streamjo.com/eetlive/eettv.m3u8
@@ -22,7 +22,7 @@ https://live.cmr24.fm/TVI/HD/playlist.m3u8
 http://144.217.77.42:8888/gta_tamil/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://thaaitv.com/wp-content/uploads/2024/10/THAAITV-LOGOO.png", THAAI TV GERMANY
-https://ap02.iqplay.tv:8082/hls/thailive/1_2/index.m3u8?tkn=54775878
+#https://ap02.iqplay.tv:8082/hls/thailive/1_2/index.m3u8?tkn=54775878
 
 #EXTINF:0 tvg-logo="http://ststamiltv.stsstudio.com/wp-content/uploads/2018/07/cropped-STS-logo-inda-2.png",STS TV GERMANY
 #https://stream.vstartv.org:3031/stream/play.m3u8
@@ -49,7 +49,7 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 https://cdn.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/chunks.m3u8
 
 #EXTINF:-1 tvg-id="MarutamMusic.in" tvg-logo="https://mntv.in/style/images/logo-dark@2x.png" group-title="Music",MNTV MUSIC INDIA 
-#https://mntv.livebox.co.in/musichls/live.m3u8
+https://mntv.livebox.co.in/musichls/live.m3u8
 
 #EXTINF:-1 tvg-id="SivanTV.ch" tvg-logo="https://i.ibb.co/b3HG9wm/Logo-site.png" group-title="Religious",Sivan TV
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
@@ -177,6 +177,7 @@ http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+
 
 
 
